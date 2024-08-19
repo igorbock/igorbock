@@ -24,3 +24,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Ninject](https://img.shields.io/badge/Ninject-black?style=for-the-badge)
+![Blazor](https://img.shields.io/badge/Blazor-Purple?style=for-the-badge)
