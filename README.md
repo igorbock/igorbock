@@ -14,8 +14,8 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-VB.NET-blue?style=for-the-badge)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <br/>
-![Docker](https://img.shields.io/badge/Docker-Blue?style=for-the-badge)
-![Postgres](https://img.shields.io/badge/PostgreSQL-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) <br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,6 +24,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Ninject](https://img.shields.io/badge/Ninject-black?style=for-the-badge) <br/>
 ![Blazor](https://img.shields.io/badge/Blazor-Purple?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=igorbock&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
