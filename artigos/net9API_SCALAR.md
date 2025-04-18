@@ -1,0 +1,1 @@
+## Criar um artigo que fale sobre API com .NET 9, a retirada do Swagger e abertura do OpenAPI. Comentar sobre a utilização com Scalar e o poder que traz para a documentação.
