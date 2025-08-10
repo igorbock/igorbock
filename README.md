@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on "Alpha Software" </br>
-- 🌱 I’m currently learning .NET MAUI, Blazor and the migration of Windows Forms projects to new Microsoft technologies with MVVM. </br>
+- 🌱 I’m currently learning .NET MAUI, Blazor and the migration of Windows Forms projects to new Microsoft technologies with MVVM and Design Patterns. </br>
 - 👯 I'm looking to collaborate on big projects </br>
 - 💬 Ask me about .NET and .NET Framework </br>
 - 📫 How to reach me: igorbdaluz@hotmail.com and igorbock3@gmail.com
