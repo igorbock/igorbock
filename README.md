@@ -10,6 +10,7 @@
 - 💬 Ask me about .NET and .NET Framework </br>
 - 📫 How to reach me: igorbdaluz@hotmail.com and igorbock3@gmail.com
 - I'm learning Python.
+- Score 38 in Duolingo.
 
 ## 🧙🏻 Technologies  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
