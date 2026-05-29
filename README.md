@@ -9,7 +9,7 @@
 - 👯 I'm looking to collaborate on big projects </br>
 - 💬 Ask me about .NET and .NET Framework </br>
 - 📫 How to reach me: igorbdaluz@hotmail.com and igorbock3@gmail.com
-- I'm learning Python.
+- I'm learning Python and Java.
 - Score 43 in Duolingo.
 
 ## 🧙🏻 Technologies  
