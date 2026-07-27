@@ -1,0 +1,5 @@
+Programador FullStack Pleno na Linguagem C# e VisualBasic, com experiência no desenvolvimento de aplicações Web, Desktop e Mobile. Desenvolvimento Windows Forms com .NET Framework e .NET Core, WebAPI com .NET 5, 6, 7, 8 e 9 e desenvolvimento multiplataforma (Mobile e Web) com .NET MAUI, desde aplicações Android e iOS, como aplicações híbridas com .NET Blazor. Possuo conhecimento e experiência no desenvolvimento de aplicações com JWT, prezando pela segurança dos dados e WebAPI.
+
+Atualmente estudo diariamente com as linguagens de programação Python e Java, além do uso da experiência com C# e VisualBasic.
+
+Meu foco atual está no aprendizado com RabbitMQ e mensageria, pois o futuro do ERP Desktop está no compartilhamento de dados em segurança com as plataformas de portabilidade, como Android e iOS.
