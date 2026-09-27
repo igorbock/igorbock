@@ -70,6 +70,7 @@ Programador Full-Stack especializado em **C#** e **Visual Basic .NET** com exper
 | 🧩 Python Lógica e Fluxo | Mar 2026 | [Verificar](https://coddy.tech/certifications/49JJgT-python-C8r1xh) |
 | 🏗️ Python Programação Orientada a Objetos (POO) | Mai 2026 | [Verificar](https://coddy.tech/certifications/49JJgT-python-XwYOnQ) |
 | ☕ Java Fundamentos | Jul 2026 | [Verificar](https://coddy.tech/certifications/49JJgT-java-jx1zAL) |
+| ☕ Java Logic & Flow | Set 2026 | [Verify](https://coddy.tech/certifications/49JJgT-java-LqwkcT) |
 
 *Emitido por [Coddy](https://coddy.tech)*
 
